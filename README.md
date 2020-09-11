@@ -9,6 +9,7 @@ Importante: Evitar marcar evento nas mesmas data que outros capítulos. Verifica
 -   Michele Figueiró: "eu gostaria de ministrar algo fazendo queries usando a biblioteca sqldf no R", workshop, qualquer sábado a partir de 26/set, qlq horário(https://www.linkedin.com/in/michele-ferraz-figueiro/)
 
 - Sabrina Vasconcellos: "R é a principal ferramenta para o nível avançado da metodologia de People Analytics", esquema palestra, não chegamos a ver datas (https://www.linkedin.com/in/sabrina-vasconcellos/)
+  - Pode qualquer dia da semana após 19h / sábado à tarde a partir das 15h / domingo em qualquer horário
 
 ## Setembro
 
