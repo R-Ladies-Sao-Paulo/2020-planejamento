@@ -8,7 +8,11 @@ Importante: Evitar marcar evento nas mesmas data que outros capítulos. Verifica
   - Pode qualquer dia da semana após 19h / sábado à tarde a partir das 15h / domingo em qualquer horário
   - Sugerir: 25/10 - 15h
   
-- Propostas para continuação da análise do censo: 
+- Propostas para continuação da análise do censo
+
+- Ideia Nath: apresentação de criação de gráficos - Parte 2 DataViz? Tidytuesday?
+
+
 
 ## Setembro
 
@@ -18,7 +22,7 @@ Importante: Evitar marcar evento nas mesmas data que outros capítulos. Verifica
 
 - 03/10/2020 (Sábado) - Michele Figueiró: "eu gostaria de ministrar algo fazendo queries usando a biblioteca sqldf no R", workshop, qualquer sábado a partir de 26/set, qlq horário(https://www.linkedin.com/in/michele-ferraz-figueiro/)
 
-- 10/10/2020 (Sábado) - 15h-17h - LatinR - Workshop Beatriz Milz e Haydee Svab - Apresentações com xaringan
+- 10/10/2020 (Sábado) - 15h-17h - LatinR - Workshop @beatrizmilz e Haydee Svab - Apresentações com xaringan
 
 - 17/10/2020 (Sábado) - [Hacktoberfest + R-Ladies SP](https://organize.mlh.io/participants/events/4200-r-ladies-sao-paulo-hacktoberfest-meetup-online) 
 
@@ -27,3 +31,6 @@ Importante: Evitar marcar evento nas mesmas data que outros capítulos. Verifica
 - 07/11/2020 (Sábado) - [Meetup DataViz](https://github.com/R-Ladies-Sao-Paulo/2020-R-LadiesSP-DataViz/projects/1)
 
 ## Dezembro
+
+
+- Shiny em 05 ou 12 de dezembro - Nath convidou [Marina Muradian](https://www.linkedin.com/in/marina-m-13794a4a/)
