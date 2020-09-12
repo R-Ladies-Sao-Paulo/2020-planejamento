@@ -7,6 +7,8 @@ Importante: Evitar marcar evento nas mesmas data que outros capítulos. Verifica
 - Sabrina Vasconcellos: "R é a principal ferramenta para o nível avançado da metodologia de People Analytics", esquema palestra, não chegamos a ver datas (https://www.linkedin.com/in/sabrina-vasconcellos/)
   - Pode qualquer dia da semana após 19h / sábado à tarde a partir das 15h / domingo em qualquer horário
   - Sugerir: 25/10 - 15h
+  
+- Propostas para continuação da análise do censo: 
 
 ## Setembro
 
