@@ -4,7 +4,7 @@ Importante: Evitar marcar evento nas mesmas data que outros capítulos. Verifica
 
 ## Eventos/ideias sem data 
 
-- Meetup DataViz
+- [Meetup DataViz](https://github.com/R-Ladies-Sao-Paulo/2020-R-LadiesSP-DataViz/projects/1)
 
 -   Michele Figueiró: "eu gostaria de ministrar algo fazendo queries usando a biblioteca sqldf no R", workshop, qualquer sábado a partir de 26/set, qlq horário(https://www.linkedin.com/in/michele-ferraz-figueiro/)
 
